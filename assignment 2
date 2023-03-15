@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Assignment 2</title>
+	<style>
+		body {
+			margin: 0;
+			padding: 0;
+			font-family: Arial, sans-serif;
+			background-color: #F5F5F5;
+		}
+		header {
+			background-image: url('Chrysanthemum.jpg');
+			background-repeat: repeat-x;
+			background-color: #FFFFFF;
+			height: 150px;
+			text-align: center;
+		}
+		#logo {
+			text-align: center;
+			margin-top: 20px;
+		}
+		footer {
+			background-color: #333333;
+			color: #FFFFFF;
+			padding: 10px;
+			text-align: center;
+		}
+		nav {
+			background-color: #333333;
+			color: #FFFFFF;
+			text-align: center;
+			padding: 10px;
+		}
+		nav ul {
+			list-style: none;
+			margin: 0;
+			padding: 0;
+			display: inline-block;
+			vertical-align: middle;
+		}
+		nav li {
+			display: inline-block;
+			margin: 0 10px;
+		}
+		nav a {
+			color: #FFFFFF;
+			text-decoration: none;
+		}
+		h1 {
+			text-align: center;
+		}
+		.content {
+			padding: 20px;
+			margin: 20px auto;
+			max-width: 600px;
+			background-color: #FFFFFF;
+		}
+	</style>
+</head>
+<body>
+	<header>
+		
+<insert-image:WB01843_.gif
+	</header>
+	<div id="logo">
+<insert-image:WB01239_.gif
+	</div>
+	<nav>
+		<ul>
+			<li><a href="#">Home</a></li>
+			<li><a href="#">About Us</a></li>
+			<li><a href="#">Contact Us</a></li>
+		</ul>
+	</nav>
+	<div class="content">
+		<h1>Main Heading</h1>
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi euismod enim nec neque dignissim, quis blandit magna efficitur. Nullam quis eleifend leo. Maecenas quis aliquam lacus. Praesent quis nunc nibh. Sed sit amet neque suscipit, convallis odio eget, vestibulum mauris. Sed et placerat mi, ut convallis mauris. Fusce vel faucibus tellus. Nulla ac nisl et odio efficitur vestibulum at eu massa.</p>
+	</div>
+	<footer>
+		&copy; Brian
+	</footer>
+</body>
+</html>
